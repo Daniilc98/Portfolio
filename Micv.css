@@ -1,0 +1,47 @@
+.micv-container {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    height: 300px;
+}
+
+.micv-info {
+    display: inline-block;
+    width: 60%;
+    padding: 0 90px;
+}
+
+.micv-info > h1 {
+    margin: 40px 0;
+    font-size: 28px;
+    width: 80%;
+}
+
+.micv-info > h1 > span {
+    color: #07cec8;
+}
+
+.micv-info > p {
+    padding-top: 45px;
+    line-height: 1.5;
+}
+
+.buttonContainer {
+    float: right;
+    margin: 140px 250px 0 0;
+}
+
+.cvButton {
+    background-color: #fff;
+    color: #000;
+    padding: 13px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.cvButton:hover {
+    opacity: .9;
+    background-color: #07cec8;
+    color: #fff;
+}
